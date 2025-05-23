@@ -24,8 +24,8 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 ## Program:
 ```
 To implement the program for Cherry pickup problem.
-Developed by: LOKNAATH P
-Register Number: 212223240080 
+Developed by: MARXIN LIJO M
+Register Number: 212223240085 
 ```
 ```py
 class Solution:
